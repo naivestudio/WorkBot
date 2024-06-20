@@ -15,13 +15,6 @@ if (propFile.exists()) {
     properties.load(new InputStreamReader(new FileInputStream(propFile), Charset.forName("utf-8")))
 }
 
-//configurations.all {
-//    resolutionStrategy {
-//        force "com.android.support:appcompat-v7:${SupportLibVersion}"
-//        force "com.android.support:support-v4:${SupportLibVersion}"
-//
-//    }
-//}
 android {
     compileSdkVersion versions.compile
     buildToolsVersion versions.buildTool
