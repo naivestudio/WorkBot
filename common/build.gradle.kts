@@ -6,7 +6,7 @@ plugins {
     id("kotlin-android-extensions")
 }
 
-android {
+android { 
 
     buildToolsVersion = versions.buildTool
     compileSdk = versions.compile
