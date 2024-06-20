@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.dsl.copyFreeCompilerArgsToArgs
 
 initVersions(file("project-versions.json"))
-
+ 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     val kotlin_version = "1.6.21"
