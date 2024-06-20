@@ -9,6 +9,7 @@
     - 可使用WorkBot APP安装包自行测试：[点击下载](https://pan.quark.cn/s/2111de922884)
 - 如果您是 **老板 / 业务负责人**
     - 可联系WorkBot官方客服协助你演示功能与商务对接
+    - ![联系我们](./images/contact_us.png)
 
 ### 风险提示
 
@@ -29,13 +30,14 @@
 ### Copyright 版权
 
 本产品采用 GPL-V2 许可证
+
 基于Mozilla Public License Version 2.0并附加以下条款：
 - **非商业性使用** — 不得将此项目及其衍生的项目的源代码和二进制产品用于任何商业和盈利用途
 
 ### 联系方式
 
-⭐️ 合作申请: https://www.workbot.run
-💻 Email: support@workbot.run
-🤗 官方客服: 技术支持、问题反馈
+- ⭐️ 合作申请: https://www.workbot.run
+- 💻 Email: support@workbot.run
+- 🤗 官方客服: 技术支持、问题反馈
 
-![image.png](https://api.apifox.com/api/v1/projects/4674747/resources/448578/image-preview)
+![联系我们](./images/contact_us.png)
