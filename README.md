@@ -29,6 +29,20 @@
 
 📝 https://www.workbot.run
 
+### 部分功能演示
+
+#### 发送消息
+
+<img src="./images/sendMessage.gif" alt="sendMessage.gif" width="450" height="auto">
+
+注：Gif动图为机器人自动运行
+
+#### 发送图片
+
+  <img src="./images/sendImage.gif" alt="sendImage.gif" width="450" height="auto">
+
+注：Gif动图为机器人自动运行
+
 ### Copyright 版权
 
 本产品采用 GPL-V2 许可证
