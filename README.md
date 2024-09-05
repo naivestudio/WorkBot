@@ -33,7 +33,7 @@
 
 #### 发送消息
 
-<img src="./images/sendMessage.gif" alt="sendMessage.gif" width="360" height="auto">
+<img src="./images/sendMessage.gif" alt="sendMessage.gif" width="360"  height="auto">
 
 注：Gif动图为机器人自动运行
 
