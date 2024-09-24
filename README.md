@@ -8,7 +8,7 @@
 - 如果您是 **技术 / 开发者**
     - 可以自行编译源码运行，进行测试和学习
 - 如果您 **不熟悉相关项目语言**
-    - 可使用WorkBot打包版本：[点击下载](https://www.pgyer.com/XhAZ9Wbg)
+    - 可使用WorkBot打包版本：[点击下载最新版本](https://www.pgyer.com/XhAZ9Wbg)
 - 如果您是 **业务负责人 / 老板**
     - 可联系WorkBot官方客服协助你演示功能与技术对接
     - ![联系我们](./images/contact_us.png)
